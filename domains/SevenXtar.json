@@ -1,0 +1,12 @@
+{
+    "description": "Portfolio",
+    "repo": "https://github.com/SevenXtar/SevenXtar.github.io",
+    "owner": {
+        "username": "SevenXtar",
+        "email": "sevenxtarrp@gmail.com",
+        "twitter": "SevenXtar"
+    },
+    "record": {
+        "CNAME": "SevenXtar.github.io"
+    }
+} 
